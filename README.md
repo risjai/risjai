@@ -20,10 +20,6 @@
   <a href="https://www.linkedin.com/in/rishabh-jain-a3b37079">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/ris_jai">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=risjai&style=flat&color=2f81f7&label=Profile+views" alt="profile views"/>
 </p>
 
 ---
@@ -45,7 +41,7 @@ distributed compute    Ray on Kubernetes, job lifecycle, autoscaling
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=risjai&show_icons=true&hide_border=true&theme=github_dark&icon_color=2f81f7&title_color=2f81f7" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=risjai&show_icons=true&hide_border=true&theme=github_dark&icon_color=2f81f7&title_color=2f81f7&hide=stars" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risjai&layout=compact&hide_border=true&theme=github_dark&title_color=2f81f7&langs_count=6" alt="Top languages"/>
 
 </div>
