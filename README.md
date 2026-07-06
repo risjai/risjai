@@ -33,10 +33,10 @@
 
 ```rust
 let focus = Focus {
-    model_serving:       "Triton · vLLM · GPU batching · sub-45ms inference at scale",
-    distributed_compute: "Ray on Kubernetes · multi-tenant · autoscaling · Istio/mTLS mesh",
-    agent_reliability:   "replay · time-travel debugging · trace fork/replay",
-    agent_tooling:       "MCP servers · orchestration · observability hooks",
+    model_serving:       "distributed inference · GPU efficiency",
+    distributed_compute: "Ray on Kubernetes · multi-tenant platforms",
+    agent_reliability:   "replay · time-travel debugging",
+    agent_tooling:       "MCP servers · observability",
 };
 ```
 
