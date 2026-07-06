@@ -31,14 +31,17 @@
 
 ### Focus areas
 
-```rust
-let focus = Focus {
-    model_serving:       "Distributed inference · GPU efficiency",
-    distributed_compute: "Ray on Kubernetes · multi-tenant platforms",
-    agent_reliability:   "Replay · time-travel debugging",
-    agent_tooling:       "MCP servers · observability",
-};
-```
+**Model serving**
+&nbsp;`Distributed inference` `GPU efficiency`
+
+**Distributed compute**
+&nbsp;`Ray on Kubernetes` `Multi-tenant platforms`
+
+**Agent reliability**
+&nbsp;`Replay` `Time-travel debugging`
+
+**Agent tooling**
+&nbsp;`MCP servers` `Observability`
 
 ---
 
