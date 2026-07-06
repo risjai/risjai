@@ -31,10 +31,12 @@
 
 ### Focus areas
 
-```text
-agent reliability      replay, time-travel debugging, trace fork/replay
-agent tooling          MCP servers, orchestration, observability hooks
-distributed compute    Ray on Kubernetes, job lifecycle, autoscaling
+```rust
+let focus = Focus {
+    agent_reliability:   "replay · time-travel debugging · trace fork/replay",
+    agent_tooling:       "MCP servers · orchestration · observability hooks",
+    distributed_compute: "Ray on Kubernetes · job lifecycle · autoscaling",
+};
 ```
 
 ---
