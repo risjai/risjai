@@ -26,16 +26,16 @@
 
 ### What I'm building
 
-- **[agentoptics/rewind](https://github.com/agentoptics/rewind)** — `Rust` · fix broken AI-agent runs without re-running them. Fork & replay execution traces; integrates with Langfuse / LangSmith.
-- **[ray-mcp](https://github.com/risjai/ray-mcp)** — `Go` · an MCP server for managing Ray clusters and jobs, with native Kubernetes support.
+- **[agentoptics/rewind](https://github.com/agentoptics/rewind)** — `Rust` · Fix broken AI-agent runs without re-running them. Fork & replay execution traces; integrates with Langfuse / LangSmith.
+- **[ray-mcp](https://github.com/risjai/ray-mcp)** — `Go` · An MCP server for managing Ray clusters and jobs, with native Kubernetes support.
 
 ### Focus areas
 
 ```rust
 let focus = Focus {
-    model_serving:       "distributed inference · GPU efficiency",
+    model_serving:       "Distributed inference · GPU efficiency",
     distributed_compute: "Ray on Kubernetes · multi-tenant platforms",
-    agent_reliability:   "replay · time-travel debugging",
+    agent_reliability:   "Replay · time-travel debugging",
     agent_tooling:       "MCP servers · observability",
 };
 ```
@@ -50,7 +50,6 @@ let focus = Focus {
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/risjai?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=2f81f7" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/agentoptics/rewind?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=2f81f7&label=rewind%20stars" alt="rewind stars"/>
   <img src="https://img.shields.io/github/stars/risjai/ray-mcp?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=2f81f7&label=ray-mcp%20stars" alt="ray-mcp stars"/>
 </p>
