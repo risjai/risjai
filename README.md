@@ -9,7 +9,6 @@
 
 <p align="center">
   <b>AI Platform &amp; Systems Engineer</b><br/>
-  I build the infrastructure that makes AI agents reliable, observable, and production-ready.
 </p>
 
 <p align="center">
